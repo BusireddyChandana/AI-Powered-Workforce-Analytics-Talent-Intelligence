@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.env
+
+Milestone-1/AI-Smart-Bug-Analyzer/data/*.csv
+
+Milestone-1/AI-Smart-Bug-Analyzer/Storage/
+Milestone-1/AI-Smart-Bug-Analyzer/storage/
+
+*.sqlite3
